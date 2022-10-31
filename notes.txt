@@ -23,3 +23,13 @@ you everything in the immediate directory and inside each nested directory
 9. There's a photos directory we created. Inside that there is a png
 directory and a jpg directory along with four files, cohort.jpg, 
 eric.png, troy.png, wc-cohort.png 
+
+GITHUB!
+
+1. Git init initializes a git repository
+2. git add . will add every file that has been changed to the upcoming commit
+3. git commit -m "message" commit the changes to github with this message
+4. create a github remote that you can add this to
+5. git remote add origin (url)
+6. git push origin (nameOfTheBranch)
+7. send out the link
