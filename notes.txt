@@ -33,3 +33,9 @@ GITHUB!
 5. git remote add origin (url)
 6. git push origin (nameOfTheBranch)
 7. send out the link
+
+AFTER YOU HAVE EVERYTHING CREATED:
+1. git add (file or files)
+2. git commit -m "Message that doesn't make late night commits"
+3. git push origin (nameOfTheBranch)
+
