@@ -1,0 +1,25 @@
+1. pwd shows you the absolute path of exactly where
+you are in the command line.
+
+2. mkdir (name) makes a directory with whatever the name you 
+want for that directory
+
+3. cd is the way to move in and out of directories
+
+4. touch (name) is how to make a specific file with whatever 
+name you want
+
+5. rm is to remove a specific file and it's not dangerous. rm -rf IS 
+SUPER SUPER SUPER dangerous and feel free to manually delete instead
+
+6. The integrated terminal in VS Code can be brought up with 
+control + backtick (` in the upper left corner under escape button)
+
+7. ls is to check what's in the immediate directory, tree will show 
+you everything in the immediate directory and inside each nested directory
+
+8. To move a file, use mv file newLocation
+
+9. There's a photos directory we created. Inside that there is a png
+directory and a jpg directory along with four files, cohort.jpg, 
+eric.png, troy.png, wc-cohort.png 
