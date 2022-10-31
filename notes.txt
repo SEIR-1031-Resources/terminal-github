@@ -24,7 +24,19 @@ you everything in the immediate directory and inside each nested directory
 directory and a jpg directory along with four files, cohort.jpg, 
 eric.png, troy.png, wc-cohort.png 
 
-GITHUB!
+GITHUB FOR ASSIGNMENTS!
+
+1. Fork over the homework assignment to your personal github
+2. Use "git clone (url)" from YOUR PERSONAL repo to clone it into
+whatever your homework directory is.
+3. This creates a new directory with the repo that I just cloned
+4. git add . once everything is updated
+5. git commit -m "message with my commit"
+6. git push origin (branch) //This is often master for hws
+7. Go to the pull request tab, make a pull request 
+to the original forked version (by default it should do this)
+
+CREATING YOUR OWN GITHUB REPOS!
 
 1. Git init initializes a git repository
 2. git add . will add every file that has been changed to the upcoming commit
